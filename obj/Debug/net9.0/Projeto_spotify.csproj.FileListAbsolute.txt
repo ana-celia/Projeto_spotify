@@ -1,0 +1,15 @@
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/bin/Debug/net9.0/Projeto_spotify
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/bin/Debug/net9.0/Projeto_spotify.deps.json
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/bin/Debug/net9.0/Projeto_spotify.runtimeconfig.json
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/bin/Debug/net9.0/Projeto_spotify.dll
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/bin/Debug/net9.0/Projeto_spotify.pdb
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.AssemblyInfoInputs.cache
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.AssemblyInfo.cs
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.csproj.CoreCompileInputs.cache
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.sourcelink.json
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.dll
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/refint/Projeto_spotify.dll
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.pdb
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/Projeto_spotify.genruntimeconfig.cache
+/Users/anaceliabaiaaraujo/Downloads/Projeto_spotify/obj/Debug/net9.0/ref/Projeto_spotify.dll

@@ -1,0 +1,7 @@
+# Arquivo de parâmetros para busca de músicas no Spotify
+# Formato: CHAVE = VALOR
+
+NOME_ARTISTA = The Beatles
+QUANTIDADE_MUSICAS = 8
+PAIS_BUSCA = BR
+TIPO_ORDEM = NOME_MUSICA
